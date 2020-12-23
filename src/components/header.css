@@ -1,0 +1,15 @@
+.container{
+
+    height: 50px;
+    position: fixed;
+    background: black;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    justify-content: flex-start;
+    flex-direction: row;
+    display: flex;
+    padding: 10px;
+}
+.link{
+    color: white; margin-left: 20px; cursor: pointer;
+}
